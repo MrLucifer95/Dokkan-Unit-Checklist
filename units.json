@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p2p_lr_001",
+    "name": "Example P2P LR",
+    "category": "P2P LRs",
+    "icon": "https://via.placeholder.com/256"
+  },
+  {
+    "id": "f2p_lr_001",
+    "name": "Example F2P LR",
+    "category": "F2P LRs",
+    "icon": "https://via.placeholder.com/256"
+  },
+  {
+    "id": "dfe_tur_001",
+    "name": "Example Dokkan Fest TUR",
+    "category": "Dokkan Fest TURs",
+    "icon": "https://via.placeholder.com/256"
+  }
+]
