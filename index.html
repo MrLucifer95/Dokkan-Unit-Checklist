@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>My Dokkan Checklist</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>My Dokkan Checklist</h1>
+      <div id="progress" class="muted">0 / 0</div>
+    </div>
+
+    <div class="controls">
+      <input id="search" placeholder="Search…" />
+      <select id="categorySelect"></select>
+
+      <div class="btnrow">
+        <button id="modeOwned" class="mode active" title="Click units to toggle owned">Owned</button>
+        <button id="modeEza" class="mode" title="Click units to cycle EZA">EZA</button>
+        <button id="modePot" class="mode" title="Click units to cycle Hidden Potential">Potential</button>
+      </div>
+
+      <div class="btnrow">
+        <button id="selectAll">Select all (Owned)</button>
+        <button id="selectNone">Clear all (Owned)</button>
+        <button id="hideOwned">Hide owned</button>
+        <button id="showMissing">Show only missing</button>
+        <button id="showAll">Show all</button>
+      </div>
+
+      <div class="btnrow">
+        <button id="export">Export</button>
+        <button id="import">Import</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
