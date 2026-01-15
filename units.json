@@ -12,9 +12,39 @@
     "icon": "https://via.placeholder.com/256"
   },
   {
+    "id": "prime_lr_001",
+    "name": "Example Prime Battle LR",
+    "category": "Prime Battle LRs",
+    "icon": "https://via.placeholder.com/256"
+  },
+  {
+    "id": "f2p_unit_001",
+    "name": "Example F2P Unit",
+    "category": "F2P Units",
+    "icon": "https://via.placeholder.com/256"
+  },
+  {
+    "id": "strike_001",
+    "name": "Example Strike Unit",
+    "category": "Strike Units",
+    "icon": "https://via.placeholder.com/256"
+  },
+  {
     "id": "dfe_tur_001",
     "name": "Example Dokkan Fest TUR",
     "category": "Dokkan Fest TURs",
+    "icon": "https://via.placeholder.com/256"
+  },
+  {
+    "id": "side_banner_001",
+    "name": "Example Side Banner Unit",
+    "category": "Side Banner Units",
+    "icon": "https://via.placeholder.com/256"
+  },
+  {
+    "id": "fodder_001",
+    "name": "Example Fodder Unit",
+    "category": "Fodder Units",
     "icon": "https://via.placeholder.com/256"
   }
 ]
